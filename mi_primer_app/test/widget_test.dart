@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mi_primer_app/contadorApp.dart';
+import 'package:mi_primer_app/src/contadorApp.dart';
 
 
 
